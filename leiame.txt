@@ -1,1 +1,2 @@
-Arquivoo de confignuração do git
+Sistema de gerencia de banco:
+
