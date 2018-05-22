@@ -1,2 +1,2 @@
-Sistema de gerencia de banco:
+Programa de apontar numeros primos
 
