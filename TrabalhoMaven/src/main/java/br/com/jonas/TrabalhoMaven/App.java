@@ -28,7 +28,7 @@ public class App {
       }
       else {
           System.out.println("O número digitado não é primo :( ");
-	 System.out.println("tente outra vez");
+	 System.out.println("tente novamente");
 
       }
           
